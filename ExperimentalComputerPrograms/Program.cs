@@ -1,6 +1,7 @@
 ﻿using DataStructuresAndAlgorithms.AbstractDataTypes.CircularQueue;
 using DataStructuresAndAlgorithms.AbstractDataTypes.Queue;
 using DataStructuresAndAlgorithms.AbstractDataTypes.Stack;
+using DataStructuresAndAlgorithms.Algorithms.Sorting.BubbleSort;
 using DataStructuresAndAlgorithms.Algorithms.String.SpaceRemove;
 using DataStructuresAndAlgorithms.Algorithms.String.StringReverse;
 using DesignPatterns.CreationalPatterns.AbstractFactoryPattern;
@@ -29,7 +30,8 @@ namespace ExperimentalComputerPrograms
             //BuilderPatternDemo.ExecuteDemo();
             //PrototypePatternDemo.ExecuteDemo();
             //StringReverseDemo.ExecuteDemo();
-            SpaceRemoveDemo.ExecuteDemo();
+            //SpaceRemoveDemo.ExecuteDemo();
+            BubbleSortDemo.ExecuteDemo();
         }
     }
 }

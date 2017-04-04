@@ -46,6 +46,8 @@
     <Compile Include="AbstractDataTypes\Queue\QueueExecution.cs" />
     <Compile Include="AbstractDataTypes\Stack\Stack.cs" />
     <Compile Include="AbstractDataTypes\Stack\StackExecution.cs" />
+    <Compile Include="Algorithms\Sorting\BubbleSort\BubbleSort.cs" />
+    <Compile Include="Algorithms\Sorting\BubbleSort\BubbleSortDemo.cs" />
     <Compile Include="Algorithms\String\SpaceRemove\SpaceRemove.cs" />
     <Compile Include="Algorithms\String\SpaceRemove\SpaceRemoveDemo.cs" />
     <Compile Include="Algorithms\String\StringReverse\StringReverse.cs" />
